@@ -1,5 +1,7 @@
 # Excel Dashboard Project: Learning Excel Formulas and VBA
 
+This project was made in collaboration with [mariamagro](https://github.com/mariamagro) for the Databases subject in the Carlos III university.
+
 ## Project Overview
 The goal of this project was to effectively learn and apply Excel formulas and VBA while creating a user-friendly, interactive dashboard. The project consists of two main files:
 
